@@ -1,0 +1,13 @@
+2025/04/20 06:03:50 [emerg] 9#9: host not found in upstream "php-fpm-8.3" in /etc/nginx/sites-available/default.conf:23
+2025/04/20 06:04:01 [emerg] 9#9: host not found in upstream "php-fpm-8.3" in /etc/nginx/sites-available/default.conf:23
+2025/04/20 06:36:05 [emerg] 9#9: host not found in upstream "juhdi.lan" in /etc/nginx/sites-available/proxypass.cloudflared.conf:6
+2025/04/20 06:37:52 [warn] 10#10: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2025/04/20 06:37:52 [warn] 10#10: conflicting server name "playground.juhdi.my.id" on 0.0.0.0:80, ignored
+2025/05/25 07:08:24 [emerg] 9#9: host not found in upstream "php-fpm-8.3" in /etc/nginx/sites-available/default.conf:23
+2025/05/25 07:08:50 [emerg] 9#9: host not found in upstream "php-fpm-8.3" in /etc/nginx/sites-available/default.conf:23
+2025/05/25 07:22:20 [warn] 9#9: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2025/05/25 07:22:20 [warn] 9#9: conflicting server name "playground.juhdi.my.id" on 0.0.0.0:80, ignored
+2025/05/25 07:22:20 [warn] 9#9: conflicting server name "playcode.juhdi.my.id" on 0.0.0.0:80, ignored
+2025/05/25 07:22:20 [warn] 9#9: conflicting server name "playground.juhdi.my.id" on 0.0.0.0:80, ignored
+2025/05/25 07:22:20 [warn] 9#9: conflicting server name "playcode.juhdi.lan" on 0.0.0.0:80, ignored
+2025/05/25 07:22:20 [warn] 9#9: conflicting server name "playground.juhdi.lan" on 0.0.0.0:80, ignored

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: sh4dowByte-webserver
+name: webserver
+tagline: 
+icon: https://xpipe.io/favicon.ico
+category: Developer
+version: "1.0.5"
+port: 8083
+description: >
+  Install Laradock on Umbrel
+website: https://github.com/laradock/laradock
+submitter: sh4dowByte
+submission:
+repo:
+support: 
+gallery:
+  - https://laradock.io/assets/images/laradock-logo-c00f83c08f44386aac5478597bae4086.jpg
+releaseNotes: >
+  
+dependencies: []
+path: ""
