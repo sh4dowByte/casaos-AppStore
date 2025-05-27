@@ -3,5 +3,10 @@
     "name": "Sh4dowByteCasaOS",
     "font": "sh4dowByte",
     "description": ""
+  },
+  {
+    "name": "Utilities",
+    "font": "toolbox-outline",
+    "description": "Utilities Apps"
   }
 ]
