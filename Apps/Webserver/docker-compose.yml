@@ -239,5 +239,6 @@ x-casaos:
   port_map: "89"
   scheme: http
   store_app_id: webserver
+  main: webserver
   title:
     en_us: webserver
